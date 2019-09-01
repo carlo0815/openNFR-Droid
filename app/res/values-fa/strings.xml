@@ -4,7 +4,7 @@
     <string name="description">توضیحات</string>
     <string name="title">عنوان</string>
     <string name="mo">Mo</string>
-    <string name="app_name">PEDroid</string>
+    <string name="app_name">NFRDroid</string>
 
     <string-array name="servicelist">
         <item>لیست (تلوزیون)</item>
@@ -161,7 +161,7 @@
     <string name="loading">در حال بارگذاری &#8230;</string>
     <string name="about">درباره</string>
     <string name="license">LICENSE:\nLicensed under the Create-Commons Attribution-Noncommercial-Share Alike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0</string>
-    <string name="source_code_link"> http://github.com/sreichholf/openNFRDroid سورس کد در این آدرس موجود است : </string>
+    <string name="source_code_link"> http://github.com/carlo0815/openNFR-Droid سورس کد در این آدرس موجود است : </string>
     <string name="active_profile">نمایه</string>
     <string name="connection_state">حالت</string>
     <string name="not_available">در دسترس نیست</string>
@@ -206,7 +206,7 @@
     <string name="profiles">نمایه</string>
     <string name="enable_instant_zap">تعویض فوری</string>
     <string name="enable_instant_zap_long">تعویض فوری هنگام ضربه زدن کوتاه یک کانال</string>
-    <string name="wrong_activity">فعالیت غلط فراخوانی شد ! لطفا هر میانبری برای PEDroid ساخته اید را دوباره ایجاد کنید !</string>
+    <string name="wrong_activity">فعالیت غلط فراخوانی شد ! لطفا هر میانبری برای NFRDroid ساخته اید را دوباره ایجاد کنید !</string>
     <string name="simple_remote">طرح بندی ساده ریموت کنترل</string>
     <string name="screenshot_saved">تصویر در \'%s\' ذخیره شد</string>
     <string name="imdb">IMDb</string>
@@ -229,10 +229,10 @@
     <string name="use_light_theme_long">استفاده از ظاهر روشن بجای ظاهر تاریک پیش فرض</string>
     <string name="use_light_theme">استفاده از ظاهر روشن</string>
     <string name="leave_confirm">خروج ؟</string>
-    <string name="leave_confirm_long">آیا واقعا میخواهید از PEDroid خارج شوید ؟</string>
+    <string name="leave_confirm_long">آیا واقعا میخواهید از NFRDroid خارج شوید ؟</string>
     <string name="sent_as">ارسال شده به عنوان %s</string>
     <string name="watch_on_dream">مشاهده روی دستگاه</string>
-    <string name="sent_from_dreamdroid">توسط PEDroid روی %s ارسال شد</string>
+    <string name="sent_from_nfrdroid">توسط NFRDroid روی %s ارسال شد</string>
     <string name="no_profile_available">هیچ نمایه ای برای اتصال یافت نشد ! لطفا حداقل یک نمایه توسط صفحه اصلی برنامه پیکربندی کنید</string>
     <string name="confirm_app_close">پرسش برای تایید قبل از خروج از برنامه</string>
     <string name="confirm_app_close_long">پرسش برای تایید قبل از بسته شدن برنامه هنگام فشار دادن &quot;back&quot;</string>
@@ -242,9 +242,9 @@
     <string name="appearance">ظاهر</string>
     <string name="usability">قابلیت استفاده</string>
     <string name="use_picons">استفاده از پیکون ها</string>
-    <string name="use_picons_long">فعال کردن استفاده از پیکون ها در برخی از مناطق\nبه پیکون ها در /{ExternalStorageDir}/PEDroid/picons نیاز است</string>
+    <string name="use_picons_long">فعال کردن استفاده از پیکون ها در برخی از مناطق\nبه پیکون ها در /{ExternalStorageDir}/NFRDroid/picons نیاز است</string>
     <string name="sync_picons">همگام سازی پیکون ها</string>
-    <string name="sync_picons_long">همگام سازی پیکون ها در /{ExternalStorageDir}/PEDroid/picons با استفاده از نمایه پیکربندی و متصل شده کنونی</string>
+    <string name="sync_picons_long">همگام سازی پیکون ها در /{ExternalStorageDir}/NFRDroid/picons با استفاده از نمایه پیکربندی و متصل شده کنونی</string>
     <string name="sync_picons_path">مسیر ریموت پیکون ها</string>
     <string name="sync_picons_path_long">مسیر نگهداری پیکون ها در دستگاه شما</string>
     <string name="connecting">در حال اتصال</string>

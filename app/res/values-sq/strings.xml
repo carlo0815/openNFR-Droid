@@ -3,8 +3,8 @@
 
     <string name="description">Përshkrimi</string>
     <string name="title">Titull</string>
-    <string name="mo">DreamDroid</string>
-    <string name="app_name">DreamDroid</string>
+    <string name="mo">nfrdroid</string>
+    <string name="app_name">nfrdroid</string>
 
     <string-array name="servicelist">
         <item>Paketat (TV)</item>
@@ -136,7 +136,7 @@
     <string name="leave_confirm">Je i sigurte te largohesh</string>
     <string name="sent_as">Derguar si %s</string>
     <string name="watch_on_dream">Shiko ne Dreambox</string>
-    <string name="sent_from_dreamdroid">Derguar nga openNFRDroid ne %s</string>
+    <string name="sent_from_nfrdroid">Derguar nga nfrdroid ne %s</string>
     <string name="connecting">Duke u lidhur</string>
     <string name="connected">I lidhur</string>
     <string name="getting_list_of_files">Duke marre skedaret</string>

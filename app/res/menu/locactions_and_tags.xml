@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-      xmlns:openNFRDroid="http://schemas.android.com/apk/res-auto">
+      xmlns:nfrdroid="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/menu_tags"
         android:icon="@drawable/ic_action_tags"
         android:title="@string/tags"
-        openNFRDroid:showAsAction="ifRoom|withText"/>
+        nfrdroid:showAsAction="ifRoom|withText"/>
 
 </menu>

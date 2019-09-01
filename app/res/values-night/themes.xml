@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.DreamDroid" parent="Theme.DreamDroid.Night" />
-    <style name="Theme.DreamDroid.Dialog" parent="Theme.DreamDroid.Dialog.Night" />
-    <style name="Theme.DreamDroid.BottomSheetDialog" parent="Theme.DreamDroid.BottomSheetDialog.Night" />
-    <style name="Theme.DreamDroid.Dialog.Alert" parent="Theme.DreamDroid.Dialog.Alert.Night" />
+    <style name="Theme.nfrdroid" parent="Theme.nfrdroid.Night" />
+    <style name="Theme.nfrdroid.Dialog" parent="Theme.nfrdroid.Dialog.Night" />
+    <style name="Theme.nfrdroid.BottomSheetDialog" parent="Theme.nfrdroid.BottomSheetDialog.Night" />
+    <style name="Theme.nfrdroid.Dialog.Alert" parent="Theme.nfrdroid.Dialog.Alert.Night" />
 
 </resources>

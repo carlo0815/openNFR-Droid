@@ -25,7 +25,7 @@
 ## 1.3.430
 * FIX: crash when trying to stream with external video player
 * FIX: crash when encoder-port/bitrate is empty or invalid
-* FIX: Bug in integrated gaugeview-library that caused "READ_PHONE_STATE" permission to be added by the android SDK [https://github.com/...](https://github.com/sreichholf/openNFRDroid/commit/f3eb97472a850ddbeca7bf91a14c4163f845cc35)
+* FIX: Bug in integrated gaugeview-library that caused "READ_PHONE_STATE" permission to be added by the android SDK [https://github.com/...](https://github.com/carlo0815/openNFR-Droid/commit/f3eb97472a850ddbeca7bf91a14c4163f845cc35)
 
 ## 1.3.429
 * Improvements to the videoplayer (don't stop on rotation, jump in recordings, playback time displayed correctly when watching recorded movies)
@@ -58,7 +58,7 @@
 
 ## 1.2.420
 * NEW: Settings Backup
-* FIX: Some improvements for the TV version of openNFRDroid
+* FIX: Some improvements for the TV version of NFRDroid
 * FIX: Fix NPEs
 * DEV: Switch to Android SDK 28 and AndroidX
 * DEV: Update external libraries

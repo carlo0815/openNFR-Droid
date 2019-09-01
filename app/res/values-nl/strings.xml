@@ -4,7 +4,7 @@
     <string name="description">Omschrijving</string>
     <string name="title">Titel</string>
     <string name="mo">Ma</string>
-    <string name="app_name">DreamDroid</string>
+    <string name="app_name">nfrdroid</string>
 
     <string-array name="servicelist">
         <item>Boeketten (TV)</item>
@@ -181,7 +181,7 @@
     <string name="changelog">wijzigingslog </string>
 <string name="license">Licentie:
 \nGelicentieerd onder de Create-Commons Attribution-Noncommercial-Share Alike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0</string>
-    <string name="source_code_link">Broncode beschikbaar op http://github.com/sreichholf/openNFRDroid</string>
+    <string name="source_code_link">Broncode beschikbaar op http://github.com/sreichholf/nfrdroid</string>
     <string name="active_profile">Actief profiel</string>
     <string name="connection">Verbinding</string>
     <string name="connection_state">Verbindingsstatus</string>
@@ -228,7 +228,7 @@
     <string name="profiles_long">Profielen configureren</string>
     <string name="enable_instant_zap">Onmiddelijk zappen</string>
     <string name="enable_instant_zap_long">Onmiddelijk zappen bij het kort aanklikken van een service</string>
-    <string name="wrong_activity">Verkeerde activiteit aangeroepen! Hercreëer de snelkoppeling voor openNFRDroid!</string>
+    <string name="wrong_activity">Verkeerde activiteit aangeroepen! Hercreëer de snelkoppeling voor nfrdroid!</string>
     <string name="simple_remote">Eenvoudige afstandbediening layout</string>
     <string name="screenshot_saved">Screenshot opgeslagen als \'%s\'</string>
     <string name="imdb">IMDb</string>
@@ -250,10 +250,10 @@
     <string name="use_light_theme_long">Gebruik lichte thema ipv. donkere standaard thema</string>
     <string name="use_light_theme">Gebruik lichte thema</string>
     <string name="leave_confirm">Echt verlaten?</string>
-    <string name="leave_confirm_long">Wil je openNFRDroid echt verlaten?</string>
+    <string name="leave_confirm_long">Wil je nfrdroid echt verlaten?</string>
     <string name="sent_as">Stuur als %s</string>
     <string name="watch_on_dream">Bekijk op de Dreambox</string>
-    <string name="sent_from_dreamdroid">Gezonden vanaf openNFRDroid op %s</string>
+    <string name="sent_from_nfrdroid">Gezonden vanaf nfrdroid op %s</string>
     <string name="no_profile_available">Geen profiel gevonden! Configureer minimaal een profiel om deze app te gebruiken.</string>
     <string name="confirm_app_close">Vraag om bevestiging voor app sluit.</string>
     <string name="login_movies">Login (Films)</string>
@@ -263,7 +263,7 @@
     <string name="usability">Bruikbaarheid</string>
     <string name="use_picons">Gebruik Picons</string>
     <string name="sync_picons">Picons synchroniseren</string>
-    <string name="sync_picons_long">Synchroniseer Picons naar /{ExternalStorageDir}/openNFRDroid/picons met gebruik van het huidige verbindingsprofiel</string>
+    <string name="sync_picons_long">Synchroniseer Picons naar /{ExternalStorageDir}/nfrdroid/picons met gebruik van het huidige verbindingsprofiel</string>
     <string name="sync_picons_path_long">Pad waar Picons op de dreambox staan</string>
     <string name="connecting">Verbinden ...</string>
     <string name="connected">Verbonden</string>

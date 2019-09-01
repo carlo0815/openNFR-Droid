@@ -4,7 +4,7 @@
     <string name="description">Descrição</string>
     <string name="title">Titulo</string>
     <string name="mo">Mo</string>
-    <string name="app_name">DreamDroid</string>
+    <string name="app_name">nfrdroid</string>
 
     <string-array name="servicelist">
         <item>Pacotes TV</item>
@@ -182,7 +182,7 @@
     <string name="changelog">Alterações</string>
 <string name="license">LICENÇA:
 \nLicenciado sob a Create-Commons Attribution-Noncommercial-Share Alike 3.0 Unported http://creativecommons.org/licenses/by-nc-sa/3.0</string>
-    <string name="source_code_link">Código fonte disponível em http://github.com/sreichholf/openNFRDroid</string>
+    <string name="source_code_link">Código fonte disponível em http://github.com/sreichholf/nfrdroid</string>
     <string name="active_profile">Perfil</string>
     <string name="connection">Ligação</string>
     <string name="connection_state">Estado</string>
@@ -229,7 +229,7 @@
     <string name="profiles_long">Configurar perfis de ligação</string>
     <string name="enable_instant_zap">Mudar agora</string>
     <string name="enable_instant_zap_long">Zap instantâneo ao clicar no canal</string>
-    <string name="wrong_activity">Atividade errada executada! Por favor recrie os atalhos que criou para o openNFRDroid!</string>
+    <string name="wrong_activity">Atividade errada executada! Por favor recrie os atalhos que criou para o nfrdroid!</string>
     <string name="simple_remote">Comando simples</string>
     <string name="screenshot_saved">Foto do ecrã gravada em \'%s\'</string>
     <string name="imdb">IMDb</string>
@@ -251,10 +251,10 @@
     <string name="use_light_theme_long">Usar um tema claro ao invés do tema escuro</string>
     <string name="use_light_theme">Usar tema claro</string>
     <string name="leave_confirm">Sair?</string>
-    <string name="leave_confirm_long">Sair do openNFRDroid?</string>
+    <string name="leave_confirm_long">Sair do nfrdroid?</string>
     <string name="sent_as">Enviado como %s</string>
     <string name="watch_on_dream">Ver na Dreambox</string>
-    <string name="sent_from_dreamdroid">Enviado do openNFRDroid em %s</string>
+    <string name="sent_from_nfrdroid">Enviado do nfrdroid em %s</string>
     <string name="no_profile_available">Ligação de perfil não encontrada! Por favor ao menos um perfil usando a aplicação principal!</string>
     <string name="confirm_app_close">Pergunte pela confirmação antes de sair do aplicativo</string>
     <string name="confirm_app_close_long">Pergunte pela confirmação antes da aplicação estar sendo fechada  precisando &quot;voltar&quot;</string>
@@ -264,9 +264,9 @@
     <string name="appearance">Aparência</string>
     <string name="usability">Usabilidade</string>
     <string name="use_picons">Símbolo Canal</string>
-    <string name="use_picons_long">Ativar o uso dos picons em certas áreas. Requere picons em /{ExternalStorageDir}/openNFRDroid/picons</string>
+    <string name="use_picons_long">Ativar o uso dos picons em certas áreas. Requere picons em /{ExternalStorageDir}/nfrdroid/picons</string>
     <string name="sync_picons">Sincronizar Símbolo do canal</string>
-    <string name="sync_picons_long">Sincronizar Picons para /{ExternalStorageDir}/openNFRDroid/picons usando configuração de ligação de perfil atual</string>
+    <string name="sync_picons_long">Sincronizar Picons para /{ExternalStorageDir}/nfrdroid/picons usando configuração de ligação de perfil atual</string>
     <string name="sync_picons_path">Picons - caminho remoto</string>
     <string name="sync_picons_path_long">Caminho onde os Picons residem na dreambox</string>
     <string name="connecting">A ligar</string>

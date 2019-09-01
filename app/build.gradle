@@ -82,15 +82,15 @@ android {
     productFlavors {
         google {
             dimension "distribution"
-            applicationId "net.reichholf.dreamdroid"
+            applicationId "net.reichholf.nfrdroid"
         }
         fdroid {
             dimension "distribution"
-            applicationId "net.reichholf.dreamdroid"
+            applicationId "net.reichholf.nfrdroid"
         }
         amazon {
             dimension "distribution"
-            applicationId "net.reichholf.dreamdroid.amazon"
+            applicationId "net.reichholf.nfrdroid.amazon"
         }
     }
     splits {
