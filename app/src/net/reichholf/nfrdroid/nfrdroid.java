@@ -134,7 +134,7 @@ public class nfrdroid extends Application {
 		String abi = Build.CPU_ABI;
 		if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
 			abi = Build.SUPPORTED_ABIS[0];
-		return String.format("nfrdroid %s\n%s-%s %s\n%s\n\n© Stephan Reichholf\nstephan@reichholf.net", BuildConfig.VERSION_NAME, BuildConfig.FLAVOR, BuildConfig.BUILD_TYPE, abi, buildDate);
+		return String.format("nfrdroid %s\n%s-%s %s\n%s\n\nmod by openNFR \nwww.nachtfalke.biz", BuildConfig.VERSION_NAME, BuildConfig.FLAVOR, BuildConfig.BUILD_TYPE, abi, buildDate);
 	}
 
 	/*
@@ -245,17 +245,17 @@ public class nfrdroid extends Application {
 		// the profile-table is initial - let's migrate the current config as
 		// default Profile
 		if (profiles.isEmpty()) {
-			String host = sp.getString("host", "nfrdroid.org");
+			String host = sp.getString("host", "nachtfalke.biz");
 			String streamHost = sp.getString("host", "");
 
 			int port = Integer.valueOf(sp.getString("port", "80"));
 			String user = sp.getString("user", "root");
-			String pass = sp.getString("pass", "dreambox");
+			String pass = sp.getString("pass", "root");
 
 			boolean login = sp.getBoolean("login", false);
 			boolean ssl = sp.getBoolean("ssl", false);
 
-			Profile p = new Profile(-1, "Demo", host, streamHost, port, 8001, 80, login, user, pass, ssl, false, false,
+			Profile p = new Profile(-1, "openNFR", host, streamHost, port, 8001, 80, login, user, pass, ssl, false, false,
 					false, false, "", "", "", "");
 			dbh.addProfile(p);
 			profileId = p.getId();
@@ -267,7 +267,7 @@ public class nfrdroid extends Application {
 		if (!setCurrentProfile(context, profileId)) {
 			// However we got here... we're creating an
 			// "do-not-crash-default-profile now
-			sProfile = new Profile(-1, "Demo", "nfrdroid.org", "", 80, 8001, 80, false, "", "", false, false, false, false,
+			sProfile = new Profile(-1, "openNFR", "nachtfalke.biz", "", 80, 8001, 80, false, "", "", false, false, false, false,
 					false, "", "", "", "");
 		}
 	}
