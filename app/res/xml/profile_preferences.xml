@@ -6,7 +6,7 @@
         android:title="@string/profile_name"/>
 
     <EditTextPreference
-        android:defaultValue="dm.reichholf.net"
+        android:defaultValue="opennfr.reichholf.net"
         android:key="host"
         android:title="@string/host"/>
 
@@ -34,7 +34,7 @@
         android:title="@string/user"/>
 
     <EditTextPreference
-        android:defaultValue="dreambox"
+        android:defaultValue="root"
         android:dependency="login"
         android:inputType="textPassword"
         android:key="pass"
