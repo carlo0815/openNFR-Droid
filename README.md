@@ -1,4 +1,4 @@
-enNFRDroid 
+openNFRDroid 
 ==========
 
 Remotely control your enigma2 based STB with any Android Device!
