@@ -28,8 +28,7 @@
     <group
         android:translateX="9.6814435e-7"
         android:translateY="-2.716779">
-    <path android:fillColor="#336EA8"
-        android:pathData="M0,0L0,192L192,192L192,0L0,0z" android:strokeColor="#00000000"/>
+    <path android:pathData="M0,0L0,192L192,192L192,0L0,0z" android:strokeColor="#00000000"/>
     <path android:fillColor="#151515"
         android:pathData="M17,30C21.72,31.981 27.92,31 33,31L65,31L176,31C171.28,29.019 165.08,30 160,30L128,30L17,30z" android:strokeColor="#00000000"/>
     <path android:fillColor="#272727"
