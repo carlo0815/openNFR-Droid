@@ -542,8 +542,8 @@ public class VideoOverlayFragment extends Fragment implements MediaPlayer.EventL
 	}
 
 	private boolean isRecording() {
-		boolean isDreamboxRecording = mServiceInfo != null && mServiceInfo.containsKey(Movie.KEY_FILE_NAME);
-		return VLCPlayer.get().isSeekable() || isDreamboxRecording;
+		boolean isSTBRecording = mServiceInfo != null && mServiceInfo.containsKey(Movie.KEY_FILE_NAME);
+		return VLCPlayer.get().isSeekable() || isSTBRecording;
 	}
 
 	private void updateViews() {
@@ -655,7 +655,7 @@ public class VideoOverlayFragment extends Fragment implements MediaPlayer.EventL
 					TextView nowDuration = getView().findViewById(R.id.event_now_duration);
 					TextView nowTitle = getView().findViewById(R.id.event_now_title);
 
-					long pos = (long) (duration * player.getPosition()); //getTime() may deliver quite bogous values when streaming from a dreambox so we don't use them.
+					long pos = (long) (duration * player.getPosition()); //getTime() may deliver quite bogous values when streaming from a STB so we don't use them.
 					nowStart.setText(DateTime.minutesAndSeconds((int) pos));
 					nowTitle.setText(mServiceInfo.getString(Movie.KEY_SERVICE_NAME, ""));
 					nowDuration.setText(DateTime.minutesAndSeconds((int) duration));

@@ -3,7 +3,7 @@
 
 <string name="description">Kirjeldus</string>
 <string name="title">Pealkiri</string>
-<string name="app_name">Dreamdroid</string>
+<string name="app_name">NFRdroid</string>
 <string name="app_name_tv">nfrdroidTV</string>
 
 <string-array name="servicelist">
@@ -239,9 +239,9 @@
 <string name="mobile_imdb">Kasuta imdb.com mobiiliversiooni</string>
 <string name="mobile_imdb_long">Kasuta \'www.imdb.com\' asemel \'m.imdb.com\'</string>
 <string name="searching">Otsitakse…</string>
-<string name="searching_known_devices">Toimub dreamboxide otsing kohtvõrgus. See võib kesta paar minutit…</string>
-<string name="autodiscover_dreamboxes">Dreamboxi automaatne tuvastamine</string>
-<string name="autodiscovery_failed">Kohtvõrgust dreamboxe ei leitud!</string>
+<string name="searching_known_devices">Toimub STBide otsing kohtvõrgus. See võib kesta paar minutit…</string>
+<string name="autodiscover_STBes">STBi automaatne tuvastamine</string>
+<string name="autodiscovery_failed">Kohtvõrgust STBe ei leitud!</string>
 <string name="add_all">Lisa kõik</string>
 <string name="error_parsing">Viga andmete töötlemisel!</string>
 <string name="enabled">Lubatud</string>
@@ -252,7 +252,7 @@
 <string name="leave_confirm">Kas sulged rakenduse?</string>
 <string name="leave_confirm_long">Kas sulgeda nfrdroid?</string>
 <string name="sent_as">Saada kui %s</string>
-<string name="watch_on_dream">Vaata vastuvõtjas</string>
+<string name="watch_on_STB">Vaata vastuvõtjas</string>
 <string name="sent_from_nfrdroid">Saatjaks nfrdroid kasutades %s</string>
 <string name="no_profile_available">Ühenduse profiili ei leitud. Rakenduse kasutamiseks seadista vähemalt üks!</string>
 <string name="confirm_app_close">Küsi kinnitust enne rakenduse sulgemist</string>

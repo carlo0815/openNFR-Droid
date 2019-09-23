@@ -91,7 +91,7 @@
             android:name=".activities.ShareActivity"
             android:theme="@style/Theme.nfrdroid.Dialog">
 
-            <intent-filter android:label="@string/watch_on_dream">
+            <intent-filter android:label="@string/watch_on_STB">
                 <action android:name="android.intent.action.VIEW"/>
 
                 <category android:name="android.intent.category.DEFAULT"/>
@@ -102,7 +102,7 @@
                 <data android:scheme="mms"/>
             </intent-filter>
 
-            <intent-filter android:label="@string/watch_on_dream">
+            <intent-filter android:label="@string/watch_on_STB">
                 <action android:name="android.intent.action.VIEW"/>
 
                 <category android:name="android.intent.category.DEFAULT"/>

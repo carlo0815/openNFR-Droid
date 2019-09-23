@@ -229,9 +229,9 @@
     <string name="missing_stream_player">Ingen spelare för videoströmmar finns installerad på denna enheten</string>
     <string name="edit_profile">Redigera profil</string>
     <string name="searching">Söker &#8230;</string>
-    <string name="searching_known_devices">Söker efter dreamboxar i det lokala nätverket. Det här kan ta en liten stund &#8230;</string>
-    <string name="autodiscover_dreamboxes">Hitta dreamboxar automatiskt</string>
-    <string name="autodiscovery_failed">Misslyckades med att automatiskt hitta dreambox, i det lokala nätverket!</string>
+    <string name="searching_known_devices">Söker efter STBar i det lokala nätverket. Det här kan ta en liten stund &#8230;</string>
+    <string name="autodiscover_STBes">Hitta STBar automatiskt</string>
+    <string name="autodiscovery_failed">Misslyckades med att automatiskt hitta STB, i det lokala nätverket!</string>
     <string name="add_all">Lägg till alla</string>
     <string name="error_parsing">Ett fel uppstod, då data skulle hanteras.</string>
     <string name="enabled">Aktiverad</string>
@@ -240,7 +240,7 @@
     <string name="leave_confirm">Avsluta programmet?</string>
     <string name="leave_confirm_long">Är du säker på att du vill avsluta programmet?</string>
     <string name="sent_as">Skickad som</string>
-    <string name="watch_on_dream">Visa på Dreambox</string>
+    <string name="watch_on_STB">Visa på STB</string>
     <string name="sent_from_nfrdroid">Skickad från nfrdroid %s</string>
     <string name="no_profile_available">Ingen anslutningsprofil kunde hittas, Skapa en via huvudapplikationen</string>
 </resources>

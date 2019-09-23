@@ -34,7 +34,7 @@ import net.reichholf.nfrdroid.helpers.enigma2.requesthandler.RemoteCommandReques
 import java.util.ArrayList;
 
 /**
- * A Virtual dreambox remote control using http-requests to send key-strokes
+ * A Virtual STB remote control using http-requests to send key-strokes
  *
  * @author sreichholf
  *

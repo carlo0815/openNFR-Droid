@@ -218,7 +218,7 @@
     <string name="enabled">تمكين</string>
     <string name="leave_confirm">تأكيد الخروج؟</string>
     <string name="leave_confirm_long">هل حقا تريد الخروج من دريم درويد؟</string>
-    <string name="watch_on_dream">مشاهدة على الدريم بوكس</string>
+    <string name="watch_on_STB">مشاهدة على الدريم بوكس</string>
     <string name="connecting">جاري الاتصال</string>
     <string name="connected">متصل</string>
     <string name="logged_in">دخول</string>

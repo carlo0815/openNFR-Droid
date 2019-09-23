@@ -135,7 +135,7 @@
     <string name="enabled">Aktivizuar</string>
     <string name="leave_confirm">Je i sigurte te largohesh</string>
     <string name="sent_as">Derguar si %s</string>
-    <string name="watch_on_dream">Shiko ne Dreambox</string>
+    <string name="watch_on_STB">Shiko ne STB</string>
     <string name="sent_from_nfrdroid">Derguar nga nfrdroid ne %s</string>
     <string name="connecting">Duke u lidhur</string>
     <string name="connected">I lidhur</string>

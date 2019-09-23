@@ -235,8 +235,8 @@
     <string name="mobile_imdb">Imdb.com mobil sürümünü kullanın</string>
     <string name="mobile_imdb_long">M.imdb.com yerine www.imdb.com kullanımı</string>
     <string name="searching">Aranıyor &#8230;</string>
-    <string name="searching_known_devices">Yerel ağınızdaki dreamboxes aranıyor. Bu işlem birkaç dakika sürebilir &#8230;</string>
-    <string name="autodiscover_dreamboxes">Dreambox\'da otomatik bul</string>
+    <string name="searching_known_devices">Yerel ağınızdaki STBes aranıyor. Bu işlem birkaç dakika sürebilir &#8230;</string>
+    <string name="autodiscover_STBes">STB\'da otomatik bul</string>
     <string name="add_all">Hepsini ekle</string>
     <string name="enabled">Etkin</string>
 </resources>

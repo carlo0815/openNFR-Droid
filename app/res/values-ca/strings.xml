@@ -231,8 +231,8 @@
     <string name="mobile_imdb">Utilitza la versió per mòbils de imdb.com</string>
     <string name="mobile_imdb_long">Utilitza m.imdb.com en comptes de www.imdb.com</string>
     <string name="searching">Cercant&#8230;</string>
-    <string name="autodiscover_dreamboxes">Cerca Dreambox automàticament</string>
-    <string name="autodiscovery_failed">No s\'ha trobat cap dreambox a la xarxa local</string>
+    <string name="autodiscover_STBes">Cerca STB automàticament</string>
+    <string name="autodiscovery_failed">No s\'ha trobat cap STB a la xarxa local</string>
     <string name="add_all">Afegeix-los tots</string>
     <string name="error_parsing">S\'ha produït un error analitzant les dades!</string>
     <string name="enabled">Actiu</string>
@@ -243,7 +243,7 @@
     <string name="leave_confirm">Sortir?</string>
     <string name="leave_confirm_long">Segur que voleu tancar nfrdroid?</string>
     <string name="sent_as">Enviat com a %s</string>
-    <string name="watch_on_dream">Mira-ho a Dreambox</string>
+    <string name="watch_on_STB">Mira-ho a STB</string>
     <string name="sent_from_nfrdroid">Enviat des de nfrdroid a %s</string>
     <string name="no_profile_available">No s\'ha trobat cap perfil de connexió! Configureu com a mínim un perfil des de l\'aplicació principal.</string>
     <string name="confirm_app_close">Demana confirmació abans de tancar l\'app</string>
@@ -256,7 +256,7 @@
     <string name="use_picons">Utilitza Picons</string>
     <string name="sync_picons">Sincronitza els Picons</string>
     <string name="sync_picons_path">Picons - directori remot</string>
-    <string name="sync_picons_path_long">Directori on hi ha els Picons a la Dreambox</string>
+    <string name="sync_picons_path_long">Directori on hi ha els Picons a la STB</string>
     <string name="connecting">Connectant</string>
     <string name="connected">Connectat</string>
     <string name="logged_in">Sessió iniciada</string>

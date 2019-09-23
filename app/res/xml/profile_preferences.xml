@@ -62,7 +62,7 @@
             android:title="@string/user"/>
 
         <EditTextPreference
-            android:defaultValue="dreambox"
+            android:defaultValue="STB"
             android:dependency="login"
             android:inputType="textPassword"
             android:key="encoder_pass"

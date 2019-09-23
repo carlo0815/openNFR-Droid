@@ -240,9 +240,9 @@
     <string name="mobile_imdb">Użyj mobilnej wersji imdb.com</string>
     <string name="mobile_imdb_long">Użyj m.imdb.com zamiast www.imdb.com</string>
     <string name="searching">Szukanie&#8230;</string>
-    <string name="searching_known_devices">Wyszukiwanie Dreamboxów w sieci lokalnej. To może zająć kilka minut&#8230;</string>
-    <string name="autodiscover_dreamboxes">Autowyszukiwanie Dreamboxa</string>
-    <string name="autodiscovery_failed">Nie znaleziono automatycznie żadnego Dreamboxa w twojej sieci lokalnej!</string>
+    <string name="searching_known_devices">Wyszukiwanie STBów w sieci lokalnej. To może zająć kilka minut&#8230;</string>
+    <string name="autodiscover_STBes">Autowyszukiwanie STBa</string>
+    <string name="autodiscovery_failed">Nie znaleziono automatycznie żadnego STBa w twojej sieci lokalnej!</string>
     <string name="add_all">Dodaj wszystko</string>
     <string name="error_parsing">Wystąpił błąd przy analizowaniu danych!</string>
     <string name="enabled">Włączone</string>
@@ -253,7 +253,7 @@
     <string name="leave_confirm">Zamknij program</string>
     <string name="leave_confirm_long">Naprawdę chcesz opuścić nfrdroid?</string>
     <string name="sent_as">Wyślij jako %s</string>
-    <string name="watch_on_dream">Zobacz na Dreambox`ie</string>
+    <string name="watch_on_STB">Zobacz na STB`ie</string>
     <string name="sent_from_nfrdroid">Wyślij z nfrDroid na %s</string>
     <string name="no_profile_available">Brak profilu połącznia! Proszę skonfigurować profil by używać aplikacji!</string>
     <string name="confirm_app_close">Pytaj o potwierdzenie przy wyjściu z aplikacji</string>
@@ -269,7 +269,7 @@
     <string name="sync_picons">Synchronizuj pikon</string>
     <string name="sync_picons_long">Synchronizuj pikony do folderu /{ExternalStorageDir}/nfrdroid/picons używając aktualnie skonfigurowanego profilu połączenia</string>
     <string name="sync_picons_path">Pikony - ścieżka zdalna</string>
-    <string name="sync_picons_path_long">Ścieżka do folderu z pikonami na Twoim dreambox`ie</string>
+    <string name="sync_picons_path_long">Ścieżka do folderu z pikonami na Twoim STB`ie</string>
     <string name="connecting">Łączenie...</string>
     <string name="connected">Połączono</string>
     <string name="logged_in">Zalogowano</string>

@@ -229,9 +229,9 @@
     <string name="mobile_imdb">Použi mobilnú verziu imdb.com</string>
     <string name="mobile_imdb_long">Použi m.imdb.com namiesto www.imdb.com</string>
     <string name="searching">Hľadám</string>
-    <string name="searching_known_devices">Hľadanie dreamboxov v lokálnej sieti môže trvať pár minút</string>
-    <string name="autodiscover_dreamboxes">Automatické vyhľadanie dreamboxu</string>
-    <string name="autodiscovery_failed">Nepodarilo sa nájsť nijaký dreambox v lokálnej sieti! </string>
+    <string name="searching_known_devices">Hľadanie STBov v lokálnej sieti môže trvať pár minút</string>
+    <string name="autodiscover_STBes">Automatické vyhľadanie STBu</string>
+    <string name="autodiscovery_failed">Nepodarilo sa nájsť nijaký STB v lokálnej sieti! </string>
     <string name="add_all">Pridaj všetko</string>
     <string name="error_parsing">Chyba pri analýze dát!</string>
     <string name="enabled">Povolené</string>
@@ -242,7 +242,7 @@
     <string name="leave_confirm">Naozaj odísť?</string>
     <string name="leave_confirm_long">Naozaj chcete ukončiť nfrdroid?</string>
     <string name="sent_as">Poslané ako %s</string>
-    <string name="watch_on_dream">Sledovať na nfrdroide</string>
+    <string name="watch_on_STB">Sledovať na nfrdroide</string>
     <string name="sent_from_nfrdroid">Odoslal nfrdroid o %s</string>
     <string name="no_profile_available">Neexistuje profil pripojenia! Vytvorte nejaký!</string>
     <string name="confirm_app_close">Žiadať potvrdenie pred ukončením aplikácie</string>

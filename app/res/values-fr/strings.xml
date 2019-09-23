@@ -239,9 +239,9 @@
     <string name="mobile_imdb">Utiliser la version portable de imdb.com</string>
     <string name="mobile_imdb_long">Utiliser m.imdb.com au lieu de www.imdb.com</string>
     <string name="searching">Recherche en cours&#8230;</string>
-    <string name="searching_known_devices">Recherche en cour d\'une dreambox dans votre réseaux locale. Cela peut prendre environ une minute </string>
-    <string name="autodiscover_dreamboxes">Dreambox trouvée !</string>
-    <string name="autodiscovery_failed">Ne peut pas trouver de Dreambox sur votre réseau local</string>
+    <string name="searching_known_devices">Recherche en cour d\'une STB dans votre réseaux locale. Cela peut prendre environ une minute </string>
+    <string name="autodiscover_STBes">STB trouvée !</string>
+    <string name="autodiscovery_failed">Ne peut pas trouver de STB sur votre réseau local</string>
     <string name="add_all">Tout ajouter</string>
     <string name="enabled">Activé</string>
     <string name="connecting">Connexion en cours</string>

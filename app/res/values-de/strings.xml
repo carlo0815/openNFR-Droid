@@ -239,9 +239,9 @@
     <string name="mobile_imdb">Mobile Version von www.imdb.com benutzen</string>
     <string name="mobile_imdb_long">Benutze m.imdb.com statt www.imdb.com</string>
     <string name="searching">Suche&#8230;</string>
-    <string name="searching_known_devices">Dreamboxen im lokalen Netzwerk werden gesucht. Dies kann einige Minuten in Anspruch nehmen&#8230;</string>
-    <string name="autodiscover_dreamboxes">Automatische Konfiguration</string>
-    <string name="autodiscovery_failed">Leider konnte keine Dreambox im lokalen Netzwerk gefunden werden!</string>
+    <string name="searching_known_devices">STBen im lokalen Netzwerk werden gesucht. Dies kann einige Minuten in Anspruch nehmen&#8230;</string>
+    <string name="autodiscover_STBes">Automatische Konfiguration</string>
+    <string name="autodiscovery_failed">Leider konnte keine STB im lokalen Netzwerk gefunden werden!</string>
     <string name="add_all">Alle hinzufügen</string>
     <string name="error_parsing">Beim Lesen der Daten ist ein Fehler aufgetreten!</string>
     <string name="enabled">Ein</string>
@@ -252,7 +252,7 @@
     <string name="leave_confirm">Wirklich verlassen?</string>
     <string name="leave_confirm_long">Wollen Sie nfrdroid wirklich verlassen?</string>
     <string name="sent_as">Gesendet als %s</string>
-    <string name="watch_on_dream">Auf Dreambox ansehen</string>
+    <string name="watch_on_dream">Auf STB ansehen</string>
     <string name="sent_from_nfrdroid">Von nfrdroid gesendet (%s)</string>
     <string name="no_profile_available">Es wurde kein Verbindungsprofil gefunden! Bitte konfiguriere mindestens ein Verbindungsprofil über die App!</string>
     <string name="confirm_app_close">Verlassen der App bestätigen</string>
@@ -267,7 +267,7 @@
     <string name="sync_picons">Picons synchronisieren</string>
     <string name="sync_picons_long">Picons auf Basis des aktiven Verbindungsprofiles nach /{Speicher}/nfrdroid/picons synchronisieren</string>
     <string name="sync_picons_path">Picons - Entfernter Pfad</string>
-    <string name="sync_picons_path_long">Pfad in welchem die Picons auf der Dreambox abgelegt wurden</string>
+    <string name="sync_picons_path_long">Pfad in welchem die Picons auf der STB abgelegt wurden</string>
     <string name="connecting">Verbinde</string>
     <string name="connected">Verbunden</string>
     <string name="logged_in">Anmeldung erfolgreich</string>

@@ -1,1 +1,1 @@
-Steuer- und Streamingclient für enigma2 basierte Dreamboxen
+Steuer- und Streamingclient für enigma2 basierte STBen

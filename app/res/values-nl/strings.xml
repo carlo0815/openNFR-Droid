@@ -239,9 +239,9 @@
     <string name="mobile_imdb">Gebruik mobiele versie van www.imdb.com</string>
     <string name="mobile_imdb_long">Gebruik m.imdb.com ipv. www.imdb.com</string>
     <string name="searching">Zoeken&#8230;</string>
-    <string name="searching_known_devices">Dreamboxen zoeken in je lokale netwerk. Dit kan een paar minuten duren&#8230;</string>
-    <string name="autodiscover_dreamboxes">Automatisch zoeken Dreambox</string>
-    <string name="autodiscovery_failed">Kon geen Dreambox vinden in je lokale netwerk!</string>
+    <string name="searching_known_devices">STBen zoeken in je lokale netwerk. Dit kan een paar minuten duren&#8230;</string>
+    <string name="autodiscover_STBes">Automatisch zoeken STB</string>
+    <string name="autodiscovery_failed">Kon geen STB vinden in je lokale netwerk!</string>
     <string name="add_all">Alles toevoegen</string>
     <string name="error_parsing">Er heeft zich een fout voorgedaan bij het doorgeven van data!</string>
     <string name="enabled">Ingeschakeld</string>
@@ -252,7 +252,7 @@
     <string name="leave_confirm">Echt verlaten?</string>
     <string name="leave_confirm_long">Wil je nfrdroid echt verlaten?</string>
     <string name="sent_as">Stuur als %s</string>
-    <string name="watch_on_dream">Bekijk op de Dreambox</string>
+    <string name="watch_on_STB">Bekijk op de STB</string>
     <string name="sent_from_nfrdroid">Gezonden vanaf nfrdroid op %s</string>
     <string name="no_profile_available">Geen profiel gevonden! Configureer minimaal een profiel om deze app te gebruiken.</string>
     <string name="confirm_app_close">Vraag om bevestiging voor app sluit.</string>
@@ -264,7 +264,7 @@
     <string name="use_picons">Gebruik Picons</string>
     <string name="sync_picons">Picons synchroniseren</string>
     <string name="sync_picons_long">Synchroniseer Picons naar /{ExternalStorageDir}/nfrdroid/picons met gebruik van het huidige verbindingsprofiel</string>
-    <string name="sync_picons_path_long">Pad waar Picons op de dreambox staan</string>
+    <string name="sync_picons_path_long">Pad waar Picons op de STB staan</string>
     <string name="connecting">Verbinden ...</string>
     <string name="connected">Verbonden</string>
     <string name="logged_in">Ingelogd</string>

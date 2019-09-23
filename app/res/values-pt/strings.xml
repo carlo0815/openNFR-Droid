@@ -241,8 +241,8 @@
     <string name="mobile_imdb_long">Usar m.IMDb.com ao invés de www.IMDb.com</string>
     <string name="searching">A procurar&#8230;</string>
     <string name="searching_known_devices">A procurar recetores na rede. Pode demorar alguns minutos&#8230;</string>
-    <string name="autodiscover_dreamboxes">Detetar Dreambox automaticamente</string>
-    <string name="autodiscovery_failed">Nao conseguiu encontrar a dreamboc na rede local!</string>
+    <string name="autodiscover_STBes">Detetar STB automaticamente</string>
+    <string name="autodiscovery_failed">Nao conseguiu encontrar a STB na rede local!</string>
     <string name="add_all">Adicionar todos</string>
     <string name="error_parsing">Ocorreu um erro ao interpretar os dados!</string>
     <string name="enabled">Ativado</string>
@@ -253,7 +253,7 @@
     <string name="leave_confirm">Sair?</string>
     <string name="leave_confirm_long">Sair do nfrdroid?</string>
     <string name="sent_as">Enviado como %s</string>
-    <string name="watch_on_dream">Ver na Dreambox</string>
+    <string name="watch_on_STB">Ver na STB</string>
     <string name="sent_from_nfrdroid">Enviado do nfrdroid em %s</string>
     <string name="no_profile_available">Ligação de perfil não encontrada! Por favor ao menos um perfil usando a aplicação principal!</string>
     <string name="confirm_app_close">Pergunte pela confirmação antes de sair do aplicativo</string>
@@ -268,7 +268,7 @@
     <string name="sync_picons">Sincronizar Símbolo do canal</string>
     <string name="sync_picons_long">Sincronizar Picons para /{ExternalStorageDir}/nfrdroid/picons usando configuração de ligação de perfil atual</string>
     <string name="sync_picons_path">Picons - caminho remoto</string>
-    <string name="sync_picons_path_long">Caminho onde os Picons residem na dreambox</string>
+    <string name="sync_picons_path_long">Caminho onde os Picons residem na STB</string>
     <string name="connecting">A ligar</string>
     <string name="connected">Ligado</string>
     <string name="logged_in">Registado</string>

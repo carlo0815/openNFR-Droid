@@ -220,9 +220,9 @@
     <string name="mobile_imdb">Použít mobilní verzi imdb.com</string>
     <string name="mobile_imdb_long">Použít m.imdb.com namísto www.imdb.com</string>
     <string name="searching">Vyhledávám&#8230;</string>
-    <string name="searching_known_devices">Vyhledávám dreamboxy na lokální síti. To může trvat několik minut&#8230;</string>
-    <string name="autodiscover_dreamboxes">Automatické vyhledání dreamboxů</string>
-    <string name="autodiscovery_failed">Na lokální síti nebylo možné nalézt žádný dreambox!</string>
+    <string name="searching_known_devices">Vyhledávám STBy na lokální síti. To může trvat několik minut&#8230;</string>
+    <string name="autodiscover_STBes">Automatické vyhledání STBů</string>
+    <string name="autodiscovery_failed">Na lokální síti nebylo možné nalézt žádný STB!</string>
     <string name="add_all">Přidat vše</string>
     <string name="error_parsing">Došlo k chybě při parsování dat!</string>
     <string name="enabled">Zapnuto</string>

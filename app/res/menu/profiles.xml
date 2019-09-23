@@ -4,7 +4,7 @@
     <item
         android:id="@+id/menu_detect_devices"
         android:icon="@drawable/ic_action_devices"
-        android:title="@string/autodiscover_dreamboxes"
+        android:title="@string/autodiscover_STBes"
         nfrdroid:showAsAction="ifRoom|withText"/>
 
 </menu>

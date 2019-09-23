@@ -240,9 +240,9 @@
     <string name="mobile_imdb">Usa la versione mobile di imdb.com</string>
     <string name="mobile_imdb_long">Usa m.imdb.com invece di www.imdb.com</string>
     <string name="searching">Ricerca...</string>
-    <string name="searching_known_devices">Ricerca dei Dreambox nella rete locale. Può impiegare diversi minuti...</string>
-    <string name="autodiscover_dreamboxes">Ricerca automatica Dreambox</string>
-    <string name="autodiscovery_failed">Impossibile trovare alcun Dreambox nella rete locale!</string>
+    <string name="searching_known_devices">Ricerca dei STB nella rete locale. Può impiegare diversi minuti...</string>
+    <string name="autodiscover_STBes">Ricerca automatica STB</string>
+    <string name="autodiscovery_failed">Impossibile trovare alcun STB nella rete locale!</string>
     <string name="add_all">Aggiungi tutti</string>
     <string name="error_parsing">Si è verificato un errore durante l\'elaborazione dei dati!</string>
     <string name="enabled">Abilitato</string>
@@ -253,7 +253,7 @@
     <string name="leave_confirm">Uscire?</string>
     <string name="leave_confirm_long">Vuoi veramente uscire da nfrdroid?</string>
     <string name="sent_as">Inviato a %s</string>
-    <string name="watch_on_dream">Guarda su Dreambox</string>
+    <string name="watch_on_STB">Guarda su STB</string>
     <string name="sent_from_nfrdroid">Inviato da nfrdroid su %s</string>
     <string name="no_profile_available">Nessun profilo di connessione trovato! Configura almeno un profilo per usare l\'applicazione principale!</string>
     <string name="confirm_app_close">Chiedi conferma prima di uscire</string>
@@ -269,7 +269,7 @@
     <string name="sync_picons">Sincronizza Picons</string>
     <string name="sync_picons_long">Sincronizza Picons in /{SchedaSD}/nfrdroid/picons usando il profilo di connessione attualmente configurato</string>
     <string name="sync_picons_path">Picons - percorso remoto</string>
-    <string name="sync_picons_path_long">Percorso dove si trovano i Picons nel Dreambox</string>
+    <string name="sync_picons_path_long">Percorso dove si trovano i Picons nel STB</string>
     <string name="connecting">Connessione</string>
     <string name="connected">Connesso</string>
     <string name="logged_in">Accesso effettuato</string>

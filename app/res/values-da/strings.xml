@@ -216,9 +216,9 @@
     <string name="mobile_imdb">Brug mobil version af imdb.com</string>
     <string name="mobile_imdb_long">Brug m.imdb.com istedet for www.imdb.com</string>
     <string name="searching">Søger.&#8230;</string>
-    <string name="searching_known_devices">Søger efter tilsluttede dreambokse på netværket, kan tage flere minutter.&#8230;</string>
-    <string name="autodiscover_dreamboxes">Autosøg tilsluttede dreambokse.</string>
-    <string name="autodiscovery_failed">Fandt ingen tilsluttede dreambokse på netværket.</string>
+    <string name="searching_known_devices">Søger efter tilsluttede STB på netværket, kan tage flere minutter.&#8230;</string>
+    <string name="autodiscover_STBes">Autosøg tilsluttede STB.</string>
+    <string name="autodiscovery_failed">Fandt ingen tilsluttede STB på netværket.</string>
     <string name="add_all">Tilføj alt.</string>
 
 </resources>

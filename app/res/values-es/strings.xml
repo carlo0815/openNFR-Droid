@@ -240,8 +240,8 @@
     <string name="mobile_imdb">Versión móvil de imdb.com</string>
     <string name="mobile_imdb_long">Usar m.imdb.com en lugar de www.imdb.com</string>
     <string name="searching">Buscando&#8230;</string>
-    <string name="searching_known_devices">Buscando Dreamboxes en tu red local. Esto puede tardar varios minutos&#8230;</string>
-    <string name="autodiscovery_failed">¡No se ha encontrado ninguna Dreambox en tu red local!</string>
+    <string name="searching_known_devices">Buscando STBes en tu red local. Esto puede tardar varios minutos&#8230;</string>
+    <string name="autodiscovery_failed">¡No se ha encontrado ninguna STB en tu red local!</string>
     <string name="add_all">Añadir Todo</string>
     <string name="error_parsing">¡Error analizando los datos!</string>
     <string name="enabled">Habilitado</string>
@@ -252,7 +252,7 @@
     <string name="leave_confirm">¿Salir?</string>
     <string name="leave_confirm_long">¿Quiere salir de nfrdroid?</string>
     <string name="sent_as">Enviado como %s</string>
-    <string name="watch_on_dream">Ver en la Dreambox</string>
+    <string name="watch_on_STB">Ver en la STB</string>
     <string name="sent_from_nfrdroid">Enviado de nfrdroid en %s</string>
     <string name="no_profile_available">¡No se ha encontrado ningún perfil de conexión! Por favor, configure al menos uno usando la aplicación principal</string>
     <string name="confirm_app_close">Confirmar al salir</string>
@@ -268,7 +268,7 @@
     <string name="sync_picons">Sincronizar Picons</string>
     <string name="sync_picons_long">Sincronizar Picons en /{ExternalStorageDir}/nfrdroid/picons usando el perfil de conexión actual</string>
     <string name="sync_picons_path">Picons - ruta remota</string>
-    <string name="sync_picons_path_long">Ruta donde residen los Picons de tu Dreambox</string>
+    <string name="sync_picons_path_long">Ruta donde residen los Picons de tu STB</string>
     <string name="connecting">Conectando</string>
     <string name="connected">Conectado</string>
     <string name="logged_in">Sesión iniciada</string>

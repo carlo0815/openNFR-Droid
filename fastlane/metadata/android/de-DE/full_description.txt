@@ -1,4 +1,4 @@
-Ein quelloffener Client für enigma2 basierte Dreamboxen.
+Ein quelloffener Client für enigma2 basierte STBen.
 FAQ: https://nfrdroid.org/faq/ (englisch)
 
 Unterstützte Geräte: dm900/920 ultraHD, dm7080hd, dm820hd, dm520hd, dm525hd, dm500hd, dm800, dm800se, dm7020hd, dm7025, dm8000
@@ -22,7 +22,7 @@ Features:
 ★ Abschalttimer setzen
 ★ Helles oder dunkles (Standard) Theme
 
-Für möglichst stabiles Streamen sind sehr guter WLAN Empfang und die aktuellste Dreambox Firmware sehr wichtig!
+Für möglichst stabiles Streamen sind sehr guter WLAN Empfang und die aktuellste STB Firmware sehr wichtig!
 
 Du möchtest nfrdroid gerne in deiner Sprache?
 Besuche https://www.nfrdroid.org/translate/nfrdroid/

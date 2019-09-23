@@ -53,7 +53,7 @@ public class ShareActivity extends ListActivity implements SimpleResultTask.Simp
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.share_list_content);
-		setTitle(getText(R.string.watch_on_dream));
+		setTitle(getText(R.string.watch_on_STB));
 		load();
 	}
 

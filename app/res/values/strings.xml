@@ -240,9 +240,9 @@
     <string name="mobile_imdb">Use mobile version of imdb.com</string>
     <string name="mobile_imdb_long">Use m.imdb.com instead of www.imdb.com</string>
     <string name="searching">Searching&#8230;</string>
-    <string name="searching_known_devices">Searching for dreamboxes in your local network. This may take a few minutes&#8230;</string>
-    <string name="autodiscover_dreamboxes">Dreambox Autodiscovery</string>
-    <string name="autodiscovery_failed">Could not autodiscover any dreambox on your local network!</string>
+    <string name="searching_known_devices">Searching for STBes in your local network. This may take a few minutes&#8230;</string>
+    <string name="autodiscover_STBes">STB Autodiscovery</string>
+    <string name="autodiscovery_failed">Could not autodiscover any STB on your local network!</string>
     <string name="add_all">Add All</string>
     <string name="error_parsing">An error occurred on parsing the data!</string>
     <string name="enabled">Enabled</string>
@@ -253,7 +253,7 @@
     <string name="leave_confirm">Really leave?</string>
     <string name="leave_confirm_long">Do you really want to leave nfrdroid?</string>
     <string name="sent_as">Sent as %s</string>
-    <string name="watch_on_dream">Watch on Dreambox</string>
+    <string name="watch_on_STB">Watch on STB</string>
     <string name="sent_from_nfrdroid">Sent from nfrdroid on %s</string>
     <string name="no_profile_available">No connection profile found! Please configure at least one profile using the main application!</string>
     <string name="confirm_app_close">Ask for confirmation before app exits</string>
@@ -268,7 +268,7 @@
     <string name="sync_picons">Sync Picons</string>
     <string name="sync_picons_long">Sync Picons to /{ExternalStorageDir}/nfrdroid/picons using the currently configured connection profile</string>
     <string name="sync_picons_path">Picons - remote path</string>
-    <string name="sync_picons_path_long">Path where the Picons on your dreambox reside</string>
+    <string name="sync_picons_path_long">Path where the Picons on your STB reside</string>
     <string name="connecting">Connecting</string>
     <string name="connected">Connected</string>
     <string name="logged_in">Logged in</string>
